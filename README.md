@@ -34,7 +34,7 @@ Type `-h` to see other available options.
 
 ## Output 
 
-[e.g]
+[e.g.]
 
 ## References 
 
