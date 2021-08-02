@@ -35,6 +35,7 @@ Type `-h` to see other available options.
 ## Output 
 
 [e.g.]
+<img width="1036" alt="image_res" src="https://user-images.githubusercontent.com/83740080/122624713-7e94de00-d0dc-11eb-8565-35bdbf161432.png">
 
 ## References 
 
